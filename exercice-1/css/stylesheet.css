@@ -1,0 +1,43 @@
+.row div div {
+    height: 60px;
+}
+
+.yellow {
+    background-color: yellow;
+    margin: 15px 0;
+}
+
+.blue {
+    background-color: blue;
+    margin-bottom: 15px;
+}
+
+.red {
+    background-color: red;
+    margin-bottom: 15px;
+}
+
+.green {
+    background-color: green;
+    margin-bottom: 15px;
+}
+
+.grey {
+    background-color: gray;
+    margin-bottom: 15px;
+}
+
+.yellow-bottom {
+    background-color: yellow;
+    margin-bottom: 15px;
+}
+
+.blue-bottom {
+    background-color: blue;
+    margin-bottom: 15px;
+}
+
+.red-bottom {
+    background-color: red;
+    margin-bottom: 15px;
+}

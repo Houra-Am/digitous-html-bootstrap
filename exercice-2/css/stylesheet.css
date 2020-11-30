@@ -1,0 +1,18 @@
+.row div div {
+    height: 50px;
+}
+
+.yellow {
+    background-color: yellow;
+    margin: 15px 0;
+}
+
+.blue {
+    background-color: blue;
+    margin-bottom: 15px;
+}
+
+.red {
+    background-color: red;
+    margin-bottom: 15px;
+}
